@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949334830270",
+    "project_id": "texfactory-56742",
+    "storage_bucket": "texfactory-56742.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949334830270:android:b5ed83dae720f6448542ef",
+        "android_client_info": {
+          "package_name": "com.shazdevelops.texfactoryad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949334830270-2qsfqme3fd1328o44c5a8cbe4dbijbqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIUPAGD2kHddaYrAqTAEKKBkbcZ3WOD7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949334830270-2qsfqme3fd1328o44c5a8cbe4dbijbqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
